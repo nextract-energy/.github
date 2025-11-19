@@ -1,4 +1,4 @@
-## Type
+## Labels
 
 Select one (and make sure your PR title starts with it):
 
