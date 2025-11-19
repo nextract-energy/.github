@@ -12,5 +12,5 @@ Select one (and make sure your PR title starts with it):
 
 If there are multiple PRs across repos that belong to the same topic, please mention it here, for example:
 
-- depends <service-name>
-- depends <service-name-2>
+- depends \<service-name>
+- depends \<service-name-2>
