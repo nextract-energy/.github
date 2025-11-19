@@ -1,6 +1,6 @@
 ## Labels
 
-Select one (and make sure your PR title starts with it):
+Select one matching label of the highest importance (and make sure your PR title includes it):
 
 - [ ] 🟢 config – only config / CI changes
 - [ ] 🟡 refactor – structural, no logic changes
