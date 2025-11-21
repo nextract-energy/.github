@@ -1,3 +1,4 @@
+<!--
 ## Labels
 
 Select one matching label of the highest importance and include it in PR title:
@@ -14,3 +15,4 @@ If there are multiple PRs across repos that belong to the same topic, please men
 
 - depends \<service-name>
 - depends \<service-name-2>
+-->
